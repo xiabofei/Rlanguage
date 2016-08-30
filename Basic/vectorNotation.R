@@ -1,3 +1,4 @@
+## 1. 用向量的操作代替for循环操作
 # 向量化输出
 cat("example 1: sin(x) for a vector --\n")
 x = c(0.1, 0.6, 1.0, 1.5)

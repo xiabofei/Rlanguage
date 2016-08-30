@@ -1,3 +1,6 @@
+## 1. R中函数定义
+## 2. 函数返多个值
+
 # 展示如何写一个函数
 X = list(height=5.4, weight=54)
 print("Use default printing --")

@@ -1,3 +1,5 @@
+## 1. vector list matrix定义方法
+## 2. 将vector拼接成矩阵
 x <- c(2,3,7,9)
 y <- c(9,7,3,2)
 year <- 1990:1993

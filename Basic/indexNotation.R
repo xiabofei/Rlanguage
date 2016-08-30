@@ -1,3 +1,5 @@
+## 1. vector和matrix的切片操作
+## 2. 通过boolean类型对vector和matrix特定位置的元素操作
 x <- c(2,7,9,2,NA,5)
 # x的元素1到3
 x[1:3]

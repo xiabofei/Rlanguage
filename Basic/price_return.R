@@ -1,3 +1,5 @@
+## 1. 几个随机函数
+## 2. 产生概率分布的几个函数
 # 这些内容涉及时间序列函数 熟悉一下函数
 ranrw <- function(mu, sigma, p0=100, T=100){
   cumprod(c(p0, 1 + (rnorm(n=T, mean = mu, sd = sigma)/100)))

@@ -8,6 +8,8 @@ plot(years, timeseries, type = "l", lwd = 3)
 # 圈定给定的区域
 polygon(x=c(1960,1960,1965,1965),
         y=c(hilo, rev(hilo)),
-        density=NA, col="orange", border=NA)
+        density=NA, 
+        col="orange", 
+        border=NA)
 # 再画一次实线 目的是让实线在上面显示
 lines(years, timeseries, type = "l", lwd = 3)
